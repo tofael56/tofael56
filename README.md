@@ -13,5 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: Adda with fiends.
 
-
-[js ](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
+https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white
