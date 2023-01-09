@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tofael Ahmed</h1>
 <h3 align="center">A passionate Software developer from Bangladesh</h3>
 
-<p align="left"> <a href="https://twitter.com/tofael56" target="blank"><img src="https://img.shields.io/twitter/follow/tofael56?logo=twitter&style=for-the-badge" alt="tofael56" /></a> </p>
-
 - 🔭 I’m currently working on **Procurement System**
 
 - 🌱 I’m currently learning **DevOps**
@@ -15,7 +13,8 @@
 
 - 📫 How to reach me **tofaelahmed1756@gmail.com**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tofael56&label=Profile%20views&color=0e75b6&style=flat" alt="tofael56" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tofael56&label=Profile%20views&color=0e75b6&style=flat" alt="tofael56" /> </p><p align="left"> <a href="https://twitter.com/tofael56" target="blank"><img src="https://img.shields.io/twitter/follow/tofael56?logo=twitter&style=for-the-badge" alt="tofael56" /></a> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tofael56" alt="tofael56" /></a> </p>
 
