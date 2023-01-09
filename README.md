@@ -13,3 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: Adda with fiends.
 ![Github](https://github.com/tofael56/blob/[branch]/image.jpg?raw=true)
+
+(https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
