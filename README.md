@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Adda with fiends.
 
 
-js 
+[js ](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
