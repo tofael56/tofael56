@@ -12,9 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: Adda with fiends.
-![Github](https://github.com/tofael56/blob/[branch]/image.jpg?raw=true)
-
-(https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 [![My Skills](https://skills.thijs.gg/icons?i=docker,js,html,css,wasm)](https://skills.thijs.gg)
+[!](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)
 
 
