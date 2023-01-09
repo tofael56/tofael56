@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 ![Github](https://github.com/tofael56/blob/[branch]/image.jpg?raw=true)
 
 (https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,wasm)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=docker,js,html,css,wasm)](https://skills.thijs.gg)
 
-[!ob](https://img.shields.io/badge/Coinbase-0052FF?style=for-the-badge&logo=Coinbase&logoColor=white)
+
