@@ -11,5 +11,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about software development with C# .Net
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: Add with fiends.
+- ⚡ Fun fact: Adda with fiends.
 
+
+js 
